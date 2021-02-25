@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/unsplash-gallery/static/js/main.c9fe6655.chunk.js",
-    "main.js.map": "/unsplash-gallery/static/js/main.c9fe6655.chunk.js.map",
+    "main.js": "/unsplash-gallery/static/js/main.9ed45a2f.chunk.js",
+    "main.js.map": "/unsplash-gallery/static/js/main.9ed45a2f.chunk.js.map",
     "runtime-main.js": "/unsplash-gallery/static/js/runtime-main.5da4e8b5.js",
     "runtime-main.js.map": "/unsplash-gallery/static/js/runtime-main.5da4e8b5.js.map",
-    "static/js/2.2bff6a5f.chunk.js": "/unsplash-gallery/static/js/2.2bff6a5f.chunk.js",
-    "static/js/2.2bff6a5f.chunk.js.map": "/unsplash-gallery/static/js/2.2bff6a5f.chunk.js.map",
+    "static/js/2.c97f39fa.chunk.js": "/unsplash-gallery/static/js/2.c97f39fa.chunk.js",
+    "static/js/2.c97f39fa.chunk.js.map": "/unsplash-gallery/static/js/2.c97f39fa.chunk.js.map",
     "static/js/3.c0d444da.chunk.js": "/unsplash-gallery/static/js/3.c0d444da.chunk.js",
     "static/js/3.c0d444da.chunk.js.map": "/unsplash-gallery/static/js/3.c0d444da.chunk.js.map",
     "index.html": "/unsplash-gallery/index.html",
-    "static/js/2.2bff6a5f.chunk.js.LICENSE.txt": "/unsplash-gallery/static/js/2.2bff6a5f.chunk.js.LICENSE.txt"
+    "static/js/2.c97f39fa.chunk.js.LICENSE.txt": "/unsplash-gallery/static/js/2.c97f39fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5da4e8b5.js",
-    "static/js/2.2bff6a5f.chunk.js",
-    "static/js/main.c9fe6655.chunk.js"
+    "static/js/2.c97f39fa.chunk.js",
+    "static/js/main.9ed45a2f.chunk.js"
   ]
 }
